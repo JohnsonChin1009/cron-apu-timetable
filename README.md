@@ -9,7 +9,11 @@
 
 ## Getting Started
 
-First, clone the repository and install the dependencies.
+First, fork the repository to your own account.
+
+![Screenshot of How to Fork](screenshots/fork-screenshot.png)
+
+Then, clone the repository to your local machine.
 
 ```
 git clone https://github.com/Hackthletes-APU/cron-apu-timetable.git
